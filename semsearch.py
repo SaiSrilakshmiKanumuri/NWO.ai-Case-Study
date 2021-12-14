@@ -250,7 +250,7 @@ for q in tqdm(unique_words):
 #Define a search method which shows us the top k similar results (by default 10) given a query.
 def search(s, k=10):
     emb = model.encode([s])
-    print('keyword  distance')
+    print('keyword,  distance')
     index.search(emb, k)
 
 search('coronavirus')

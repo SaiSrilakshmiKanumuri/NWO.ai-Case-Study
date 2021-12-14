@@ -1,2 +1,2 @@
 # NWO.ai-Case-Study
-Semantic Search Algorithm using Twitter tweets and Reddit posts
+Implementation of Semantic Search Algorithm usin Twitter tweets and Reddit posts
